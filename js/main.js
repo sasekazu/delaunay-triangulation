@@ -2,7 +2,7 @@
 /// <reference path="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" />
 /// <reference path="numeric-1.2.6.min.js" />
 
-var colors=['lightsalmon', 'lightseagreen', 'antiquewhite', 'aquamarine', 'beige', 'burlywood', 'mistyrose', 'mediumpurple', 'darkcyan', 'darkgray', 'orchid', 'peru', 'dodgerblue', 'aliceblue'];
+var colors=['lightsalmon', 'lightseagreen', 'aquamarine', 'mediumpurple', 'darkcyan', 'darkgray', 'orchid', 'peru', 'dodgerblue'];
 
 
 $(document).ready(function () {
